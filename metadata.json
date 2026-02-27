@@ -1,0 +1,5 @@
+{
+  "name": "HUB SOBERANO",
+  "description": "Sistema completo de gestão de semijoias com scanner IA, controle de estoque e vendedoras.",
+  "requestFramePermissions": ["camera"]
+}
